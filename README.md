@@ -6,5 +6,5 @@ The entry of this project is the main function of src/spl/NSbS_Driver/main.
   	int runs = 1; // How many runs
   	boolean dimacs = true;
   	int nbProds = 100; // How many cases in each sample
-    	long timeAllowed = 0; 
-    	int k = 15; // Parameter k used in novelty score 
+    long timeAllowed = 0; 
+    int k = 15; // Parameter k used in novelty score 
