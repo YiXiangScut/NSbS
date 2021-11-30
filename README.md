@@ -1,4 +1,4 @@
-# NSbS：search-based diverse sampling from real-world software product lines
+# NSbS：Search-based diverse sampling from real-world software product lines
  The entry of this project is the main function of src/spl/NSbS_Driver/main.
   	The following is some paramters to be set by users.
 
