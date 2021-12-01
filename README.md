@@ -1,5 +1,5 @@
 # NSbS：Search-based diverse sampling from real-world software product lines
-# The entry of this project is the main function of src/spl/NSbS_Driver/main.
+# 1. The entry of this project is the main function of src/spl/NSbS_Driver/main.
 
 
 public static void main(String[] args) throws Exception {
@@ -40,7 +40,7 @@ public static void main(String[] args) throws Exception {
   } // main
 
 
-# The following is some paramters to be set by users.
+# 2. The following is some paramters to be set by users.
 	
 	String outputDir = "./output/"; // Output file
 	int runs = 1; // How many runs
